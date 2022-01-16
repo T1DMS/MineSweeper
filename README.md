@@ -1,2 +1,0 @@
-# MineSweeper
-# Number Guesser
